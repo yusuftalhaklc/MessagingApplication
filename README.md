@@ -1,3 +1,6 @@
+
+<img width="1768" height="1077" alt="Untitled-2025-02-22-1340" src="https://github.com/user-attachments/assets/9f5602ca-08ad-4815-b10e-21169049a876" />
+
 ```shell
 ======MESSAGING APPLICATON======
 1. Register
